@@ -1,3 +1,12 @@
+<!-- 0xfaheng-brand:start -->
+**0xfaheng · teen-psychology-insights**
+
+[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/teen-psychology-insights)
+
+<!-- 0xfaheng-brand:end -->
+
+---
+
 # 心光心理学公众号自动发布
 
 按新的公众号定位运行：
